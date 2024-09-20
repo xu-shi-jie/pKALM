@@ -1,0 +1,13 @@
+numpy==1.26.4
+pandas==2.2.1
+loguru==0.7.2
+torch --index-url https://download.pytorch.org/whl/cu118
+torchvision --index-url https://download.pytorch.org/whl/cu118
+torchaudio --index-url https://download.pytorch.org/whl/cu118
+lightning
+scikit-learn==1.4.1.post1
+torch_geometric
+transformers==4.39.3
+BioPython==1.83
+timm==0.9.16
+accelerate==0.28.0

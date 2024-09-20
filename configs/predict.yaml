@@ -1,0 +1,13 @@
+pka_plm: esm2_t12_35M_UR50D
+ckpt_model: weights/batch_size=32_pka_dim=256_pka_layers=2-esm2_t12_35M_UR50D-epoch=99.ckpt
+ckpt_pipep: weights/batch_size=32_pipep_dim=64_pipep_layers=4-epoch=9.ckpt
+ckpt_piprot: weights/batch_size=32_piprot_dim=128_piprot_layers=4-epoch=19.ckpt
+rnn_type: bilstm
+pka_dim: 256
+pka_layers: 2
+pipep_dim: 64
+pipep_layers: 4
+pipep_enable: True
+piprot_dim: 128
+piprot_layers: 4
+piprot_enable: True

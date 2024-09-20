@@ -1,0 +1,23 @@
+task: PLM-PI-PEP
+seed: 0
+
+pi_train_csv: data/IPC2_peptide_75.csv
+pi_test_csv: data/IPC2_peptide_25.csv
+kfold: 1
+
+ckpt_path:
+
+batch_size: 32
+lr_sch: True
+epochs: 10
+ckpt_dir: checkpoints
+optimizer: adamw
+loss: mse
+lr: 0.001
+wd: 0
+wamrup_ratio: 0
+amp: True
+
+rnn_type: bilstm
+pipep_dim: 64
+pipep_layers: 4

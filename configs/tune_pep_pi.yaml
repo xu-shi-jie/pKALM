@@ -1,0 +1,12 @@
+program: train.py
+method: grid
+metric:
+  name: val_rmse
+  goal: minimize
+parameters:
+  pipep_dim:
+    values: [16, 32, 64, 128]
+  pipep_layers:
+    values: [5]
+  kfold:
+    values: [5]

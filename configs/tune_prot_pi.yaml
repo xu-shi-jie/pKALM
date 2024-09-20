@@ -1,0 +1,12 @@
+program: train.py
+method: grid
+metric:
+  name: val_rmse
+  goal: minimize
+parameters:
+  piprot_dim:
+    values: [32, 64, 128, 256]
+  piprot_layers:
+    values: [5]
+  kfold:
+    values: [5]

@@ -1,0 +1,33 @@
+task: PLM-PKA
+seed: 0
+
+pka_train_csv: data/seq_train.csv
+pka_test_csv: data/seq_test.csv
+kfold: 1
+
+pka_plm: esm2_t12_35M_UR50D
+
+ckpt_path:
+ckpt_pipep: weights/batch_size=32_pipep_dim=64_pipep_layers=4-epoch=9.ckpt
+ckpt_piprot: weights/batch_size=32_piprot_dim=128_piprot_layers=4-epoch=19.ckpt
+
+rnn_type: bilstm
+pka_dim: 256
+pka_layers: 2
+pipep_dim: 64
+pipep_layers: 4
+pipep_enable: True
+piprot_dim: 128
+piprot_layers: 4
+piprot_enable: True
+
+batch_size: 32
+lr_sch: True
+epochs: 100
+ckpt_dir: checkpoints
+optimizer: adamw
+loss: mae
+lr: 0.001
+wd: 0.001
+wamrup_ratio: 0
+amp: True

@@ -1,0 +1,377 @@
+PDB ID,Res Name,Chain,Res ID,pKa,Expt. Uncertainty,Neighbors <4A,# HB R-R,#HB R(D)-BB,# HB  R-BB(D),#HB R(A)-BB,# HB R-BB(A),#HB BB-BB,%SASA,Expt. Method,Expt. Salt Concentration,Expt. pH,Expt. Temp.,Reference,Mutant Pos,Mutant Chain,Std deviation,Unnamed: 8,Expt. method,Expt. salt conc,Expt. temp,key
+1I0V,ASP,A,76,0.5,,R77,3.0,,,,1.0,,1.0,NMR,1 M,2.0-9.0,308 K,https://link.springer.com/article/10.1007/s002490100138,,,,,,,,1I0V_A_nan_nan_76_ASP
+1STN,ASP,A,95,2.16,0.07,K97,,,,2.0,,1.0,66.4,NMR,0.1 M,2.5-7.5,298 K,https://www.ncbi.nlm.nih.gov/pubmed/19533744,,,,,,,,1STN_A_nan_nan_95_ASP
+1BEG,ASP,A,21,2.49,0.05,Q26,,,,,,1.0,41.5,NMR,,1.5-11.2,313 K,https://www.ncbi.nlm.nih.gov/pubmed/9862128,,,,,,,,1BEG_A_nan_nan_21_ASP
+3FT7,ASP,B,38,2.8,0.03,R41,,,1.0,1.0,,,38.44,NMR,<60mM,0-12.5,298 K,https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201800628,,,,,,,,3FT7_B_nan_nan_38_ASP
+1KF3,ASP,A,121,3.0,0.1,K66,,,,1.0,,1.0,26.5,NMR,1 M,1.2-7.9,303 K,https://www.ncbi.nlm.nih.gov/pubmed/8615690,,,,,,,,1KF3_A_nan_nan_121_ASP
+3WU2,ASP,o,24,3.06,0.03,D23,1.0,,,,1.0,,103.88,NMR,20mM,3.1-7.9,300K,https://chemistry-europe.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cbic.201900739,,,,,,,,3WU2_o_nan_nan_24_ASP
+1AZP,ASP,A,36,3.12,0.01,K39,,,,,,2.0,51.0,13C NMR,0.3 M,0-8,273-373 K,https://www.sciencedirect.com/science/article/pii/S0022283607008972,,,,,,,,1AZP_A_nan_nan_36_ASP
+1A2P,ASP,C,22,3.3,0.1,,,,,,,,123.8,2D 1H NMR,50mM-600mM,0.2-6.3,303 K,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,,,,,,,,1A2P_C_nan_nan_22_ASP
+1UBQ,ASP,A,52,3.4,0.1,"E24, E51, R54",1.0,,,,,1.0,63.0,NMR,0.1 M,1.0-7.0,303 K,https://pubs.acs.org/doi/10.1021/bi025571d,,,,,,,,1UBQ_A_nan_nan_52_ASP
+1LNI,ASP,A,1,3.44,0.02-0.07,,,,,,,1.0,125.6,NMR,0.1 M,1.68-8.83,293 K,https://www.ncbi.nlm.nih.gov/pubmed/12527309,,,,,,,,1LNI_A_nan_nan_1_ASP
+1NLX,ASP,A,414,3.5,,E13,,,,,,2.0,39.2,NMR,10mM,2.2-8.5,298K,https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.9b00540,,,,,,,,1NLX_A_nan_nan_414_ASP
+1HNG,ASP,A,2,3.55,0.04,K91,,,,,,1.0,143.1,NMR,100 mM,2.0-10.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi992209z,,,,,,,,1HNG_A_nan_nan_2_ASP
+1QT8,ASP,A,61,3.6,,,,,,,,,,,,1.8-7.8,,https://onlinelibrary.wiley.com/doi/pdf/10.1002/pro.3562,H26H,A,0.1,98.76,C-NMR,130mM,298K,1QT8_A_H26H_A_61_ASP
+1LNI,ASP,A,17,3.72,0.02-0.07,,,,,,,,88.1,NMR,0.1 M,1.68-8.83,293 K,https://www.ncbi.nlm.nih.gov/pubmed/12527309,,,,,,,,1LNI_A_nan_nan_17_ASP
+1BI6,ASP,H,13,3.8,0.1,,,,,,,,88.5,NMR,,1.5-7.0,313 K,https://www.ncbi.nlm.nih.gov/pubmed/12674503,,,,,,,,1BI6_H_nan_nan_13_ASP
+1HPX,ASP,A,30,3.88,,D29,,,,,,,45.3,NMR,50 mM,2.2-7.0,307 K,https://pubs.acs.org/doi/10.1021/bi961268z,,,,,,,,1HPX_A_nan_nan_30_ASP
+1I0V,ASP,A,66,3.9,0.01,,,,,,,,106.1,NMR,1 M,2.0-9.0,308 K,https://link.springer.com/article/10.1007/s002490100138,,,,,,,,1I0V_A_nan_nan_66_ASP
+P53378,ASP,A,465,4.09,0.06,,,,,,,,,NMR,,2.3-7.2,297K,https://onlinelibrary.wiley.com/doi/full/10.1002/pro.3618,,,,,,,,P53378_A_nan_nan_465_ASP
+1HNG,ASP,A,62,4.15,0.02,"E56, K64",,,,,,1.0,15.6,NMR,100 mM,2.0-10.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi992209z,,,,,,,,1HNG_A_nan_nan_62_ASP
+1HIC,ASP,A,5,4.25,0.09,K47,,,,,1.0,,94.3,1H NMR,,2.0-6.5,295 K,https://www.ncbi.nlm.nih.gov/pubmed/8049231,,,,,,,,1HIC_A_nan_nan_5_ASP
+1NLX,ASP,A,465,4.8,,E66,,,,,,2.0,50.66,NMR,10mM,2.2-8.5,298K,https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.9b00540,,,,,,,,1NLX_A_nan_nan_465_ASP
+1A91,ASP,A,61,7.1,0.2,,,,,,,,4.4,NMR,50 mM,3.3-8.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00049a034,,,,,,,,1A91_A_nan_nan_61_ASP
+1EX3,ASP,A,102,1.36,0.03,,3.0,,,1.0,,1.0,0.6,1H NMR,,,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00615a008,,,,,,,,1EX3_A_nan_nan_102_ASP
+1EX3,ASP,A,194,2.29,0.06,,,,,1.0,,,4.5,1H NMR,,,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00615a008,,,,,,,,1EX3_A_nan_nan_194_ASP
+3FT7,ASP,B,49,2.56,0.04,"H51, D52",,,,,,1.0,60.14,NMR,<60mM,0-12.5,298 K,https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201800628,,,,,,,,3FT7_B_nan_nan_49_ASP
+3FT7,ASP,B,52,2.88,0.03,,,,,,,,71.2,NMR,<60mM,0-12.5,298 K,https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201800628,,,,,,,,3FT7_B_nan_nan_52_ASP
+1BI6,ASP,H,9,3.0,0.2,,,,,,,1.0,15.2,NMR,,1.5-7.0,313 K,https://www.ncbi.nlm.nih.gov/pubmed/12674503,,,,,,,,1BI6_H_nan_nan_9_ASP
+1A2P,ASP,C,8,3.1,0.1,,2.0,,,,3.0,,96.6,2D 1H NMR,50mM-600mM,0.2-6.3,303 K,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,,,,,,,,1A2P_C_nan_nan_8_ASP
+1HPX,ASP,A,29,3.19,,D30,2.0,,,,,,56.8,NMR,50 mM,2.2-7.0,307 K,https://pubs.acs.org/doi/10.1021/bi961268z,,,,,,,,1HPX_A_nan_nan_29_ASP
+1KF3,ASP,A,83,3.3,0.1,K98,,,,,,2.0,22.2,NMR,1 M,1.2-7.9,303 K,https://www.ncbi.nlm.nih.gov/pubmed/8615690,,,,,,,,1KF3_A_nan_nan_83_ASP
+1IGC,ASP,A,52,3.4,0.1,"D51, K55",1.0,,,,,,92.0,NMR,,1.5-11.6,298 K,https://pubs.acs.org/doi/abs/10.1021/bi9630927,,,,,,,,1IGC_A_nan_nan_52_ASP
+1H4G,ASP,B,21,3.46,0.13,K20,,,,1.0,1.0,,53.2,NMR,1 M,3.2-8.7,303 K,https://pubs.acs.org/doi/abs/10.1021/bi049948m,,,,,,,,1H4G_B_nan_nan_21_ASP
+1BVI,ASP,B,15,3.52,0.02,,,,,,,,60.7,NMR,1 M,2.0-9.0,308 K,https://link.springer.com/article/10.1007/s002490100138,,,,,,,,1BVI_B_nan_nan_15_ASP
+1HNG,ASP,A,28,3.57,0.06,"E29, K43, R44",2.0,,,,,2.0,31.8,NMR,100 mM,2.0-10.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi992209z,,,,,,,,1HNG_A_nan_nan_28_ASP
+1UBQ,ASP,A,58,3.6,0.1,,,,,,,,95.5,NMR,0.1 M,1.0-7.0,303 K,https://pubs.acs.org/doi/10.1021/bi025571d,,,,,,,,1UBQ_A_nan_nan_58_ASP
+1A2P,ASP,C,12,3.8,0.1,"D8, R110",,,,,1.0,,73.5,2D 1H NMR,50mM-600mM,0.2-6.3,303 K,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,,,,,,,,1A2P_C_nan_nan_12_ASP
+2TRX,ASP,A,20,3.8,,,,,,,,,61.8,NMR,1 M,,298-308 K,https://pubs.acs.org/doi/abs/10.1021/bi961801a,,,,,,,,2TRX_A_nan_nan_20_ASP
+P53378,ASP,A,469,3.9,0.04,,,,,,,,,NMR,,2.3-7.2,297K,https://onlinelibrary.wiley.com/doi/full/10.1002/pro.3618,,,,,,,,P53378_A_nan_nan_469_ASP
+1DE3,ASP,A,75,3.9,0.1,"K73, D75, D77, R78",,,,,,,40.7,NMR,0.1 M,3.0-8.5,298 K,https://pubs.acs.org/doi/abs/10.1021/bi981672t,,,,,,,,1DE3_A_nan_nan_75_ASP
+1BUS,ASP,A,6,4.1,,K35,,,1.0,,,,13.3,1H NMR,0.1 M,3.0-6.0,318 K,https://www.ncbi.nlm.nih.gov/pubmed/6094827,,,,,,,,1BUS_A_nan_nan_6_ASP
+1FNA,ASP,A,67,4.2,<0.05,E38,1.0,,,,,1.0,61.0,NMR,0.1 M,1.5-7.0,303 K,https://pubs.acs.org/doi/abs/10.1021/bi010916y,,,,,,,,1FNA_A_nan_nan_67_ASP
+P53378,ASP,A,448,4.26,0.04,,,,,,,,,NMR,,2.3-7.2,297K,https://onlinelibrary.wiley.com/doi/full/10.1002/pro.3618,,,,,,,,P53378_A_nan_nan_448_ASP
+3WU2,ASP,o,141,4.89,0.03,,,,,,,,0.0,NMR,20mM,3.1-7.9,300K,https://chemistry-europe.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cbic.201900739,,,,,,,,3WU2_o_nan_nan_141_ASP
+1LNI,ASP,A,79,7.37,0.02-0.07,,,,,,,1.0,12.8,NMR,0.1 M,1.68-8.83,293 K,https://www.ncbi.nlm.nih.gov/pubmed/12527309,,,,,,,,1LNI_A_nan_nan_79_ASP
+1KF3,ASP,A,38,2.1,0.1,R39,,,,,,,124.0,NMR,1 M,1.2-7.9,303 K,https://www.ncbi.nlm.nih.gov/pubmed/8615690,,,,,,,,1KF3_A_nan_nan_38_ASP
+1NLX,ASP,A,452,2.4,,K56,,,,,,2.0,49.45,NMR,10mM,2.2-8.5,298K,https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.9b00540,,,,,,,,1NLX_A_nan_nan_452_ASP
+135L,ASP,A,18,2.68,0.1,,,,,,,,57.9,NMR,2.5 M,1.0-7.0,308 K,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,,,,,,,,135L_A_nan_nan_18_ASP
+1DIV,ASP,A,8,2.99,0.05,K7,,,,,,,106.3,NMR,100 mM,1.5-12.5,298 K,pKa Values and the pH Dependent Stability of the NTRinal Domain of L9 as Probes of Electrostatic Interactions in the Denatured State. Differentiation between Local and Nonlocal Interactions,,,,,,,,1DIV_A_nan_nan_8_ASP
+1DIV,ASP,A,23,3.05,0.04,,,,,,,,104.0,NMR,101 mM,1.5-12.5,298 K,pKa Values and the pH Dependent Stability of the NTRinal Domain of L9 as Probes of Electrostatic Interactions in the Denatured State. Differentiation between Local and Nonlocal Interactions,,,,,,,,1DIV_A_nan_nan_23_ASP
+1QT8,ASP,A,47,3.1,,,,,,,,,,,,1.8-7.8,,https://onlinelibrary.wiley.com/doi/pdf/10.1002/pro.3562,H26H,A,0.1,31.98,C-NMR,130mM,298K,1QT8_A_H26H_A_47_ASP
+1GOA,ASP,A,94,3.2,,"K95, K96",1.0,,,,,,105.3,NMR,0.1 M,2.0-8.0,300 K,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,,,,,,,,1GOA_A_nan_nan_94_ASP
+1H4G,ASP,B,15,3.35,0.14,"R49, K50",,,,1.0,,2.0,25.1,NMR,1 M,3.2-8.7,303 K,https://pubs.acs.org/doi/abs/10.1021/bi049948m,,,,,,,,1H4G_B_nan_nan_15_ASP
+3WU2,ASP,o,23,3.41,0.05,"D24, K203",,,,,,1.0,84.78,NMR,20mM,3.1-7.9,300K,https://chemistry-europe.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cbic.201900739,,,,,,,,3WU2_o_nan_nan_23_ASP
+1YRF,ASP,A,46,3.49,,,,,,,,,,,,2.0-7.0,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8197028/pdf/nihms-1705730.pdf,"D44N,K48M",A,0.08,70.81,NMR,0M,298K,"1YRF_A_D44N,K48M_A_46_ASP"
+1I0V,ASP,A,3,3.54,0.02,,,,,1.0,,1.0,79.0,NMR,1 M,2.0-9.0,308 K,https://link.springer.com/article/10.1007/s002490100138,,,,,,,,1I0V_A_nan_nan_3_ASP
+1BUS,ASP,A,12,3.6,,"K11, K14",,,,,,,8.8,1H NMR,0.1 M,3.0-6.0,318 K,https://www.ncbi.nlm.nih.gov/pubmed/6094827,,,,,,,,1BUS_A_nan_nan_12_ASP
+1BI6,ASP,H,38,3.7,0.2,E1,,,,,,,96.8,NMR,,1.5-7.0,313 K,https://www.ncbi.nlm.nih.gov/pubmed/12674503,,,,,,,,1BI6_H_nan_nan_38_ASP
+1STN,ASP,A,143,3.8,0.1,,,,,,,,131.2,NMR,0.1 M,2.5-7.5,298 K,https://www.ncbi.nlm.nih.gov/pubmed/19533744,,,,,,,,1STN_A_nan_nan_143_ASP
+1HNG,ASP,A,94,3.87,0.04,R96,,,,,,2.0,44.7,NMR,100 mM,2.0-10.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi992209z,,,,,,,,1HNG_A_nan_nan_94_ASP
+1DE3,ASP,A,9,3.9,0.1,"Q10, K11, K139, E140",,,,1.0,,1.0,26.9,NMR,0.1 M,3.0-8.5,298 K,https://pubs.acs.org/doi/abs/10.1021/bi981672t,,,,,,,,1DE3_A_nan_nan_9_ASP
+1EGF,ASP,A,27,4.0,0.1,H22,,,,,1.0,,115.2,1H NMR,,1.5-9.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,,,,,,,,1EGF_A_nan_nan_27_ASP
+P53378,ASP,A,447,4.13,0.05,,,,,,,,,NMR,,2.3-7.2,297K,https://onlinelibrary.wiley.com/doi/full/10.1002/pro.3618,,,,,,,,P53378_A_nan_nan_447_ASP
+1BVI,ASP,B,49,4.22,0.05,,,,,,,1.0,120.5,NMR,1 M,2.0-9.0,308 K,https://link.springer.com/article/10.1007/s002490100138,,,,,,,,1BVI_B_nan_nan_49_ASP
+1DE3,ASP,A,57,4.3,0.1,"D59, H82",,,,,,1.0,86.6,NMR,0.1 M,3.0-8.5,298 K,https://pubs.acs.org/doi/abs/10.1021/bi981672t,,,,,,,,1DE3_A_nan_nan_57_ASP
+1A91,ASP,A,7,5.6,0.3,,,,,,,2.0,0.0,NMR,50 mM,3.3-8.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00049a034,,,,,,,,1A91_A_nan_nan_7_ASP
+135L,ASP,A,87,2.13,0.16,,1.0,,,,1.0,,95.4,NMR,2.5 M,1.0-7.0,308 K,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,,,,,,,,135L_A_nan_nan_87_ASP
+3FT7,ASP,B,23,2.41,0.04,"H22, R24, E27",1.0,,,,,1.0,62.87,NMR,<60mM,0-12.5,298 K,https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201800628,,,,,,,,3FT7_B_nan_nan_23_ASP
+1QT8,ASP,A,92,2.7,,,,,,,,,,,,1.8-7.8,,https://onlinelibrary.wiley.com/doi/pdf/10.1002/pro.3562,H26H,A,0.1,50.41,C-NMR,130mM,298K,1QT8_A_H26H_A_92_ASP
+1HPX,ASP,A,60,2.99,,Q61,1.0,,,,,,69.2,NMR,50 mM,2.2-7.0,307 K,https://pubs.acs.org/doi/10.1021/bi961268z,,,,,,,,1HPX_A_nan_nan_60_ASP
+1NLX,ASP,A,482,3.06,,"D81,K83, E85",,,,,,2.0,59.19,NMR,10mM,2.2-8.5,298K,https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.9b00540,,,,,,,,1NLX_A_nan_nan_482_ASP
+1UBQ,ASP,A,21,3.1,0.1,,,,,,,2.0,35.0,NMR,0.1 M,1.0-7.0,303 K,https://pubs.acs.org/doi/10.1021/bi025571d,,,,,,,,1UBQ_A_nan_nan_21_ASP
+1QT8,ASP,A,72,3.3,,,,,,,,,,,,1.8-7.8,,https://onlinelibrary.wiley.com/doi/pdf/10.1002/pro.3562,H26H,A,0.1,79.61,C-NMR,130mM,298K,1QT8_A_H26H_A_72_ASP
+1NLX,ASP,A,433,3.38,,"K34, K36",,,,,1.0,1.0,54.98,NMR,10mM,2.2-8.5,298K,https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.9b00540,,,,,,,,1NLX_A_nan_nan_433_ASP
+1AZP,ASP,A,35,3.42,0.01,D36,1.0,,,1.0,,1.0,32.4,13C NMR,0.3 M,0-8,273-373 K,https://www.sciencedirect.com/science/article/pii/S0022283607008972,,,,,,,,1AZP_A_nan_nan_35_ASP
+1QT8,ASP,A,127,3.5,,,,,,,,,,,,1.8-7.8,,https://onlinelibrary.wiley.com/doi/pdf/10.1002/pro.3562,H26H,A,0.1,90.19,C-NMR,130mM,298K,1QT8_A_H26H_A_127_ASP
+1BVI,ASP,B,3,3.54,0.02,,,,,1.0,,,60.9,NMR,1 M,2.0-9.0,308 K,https://link.springer.com/article/10.1007/s002490100138,,,,,,,,1BVI_B_nan_nan_3_ASP
+1IGC,ASP,A,51,3.6,0.1,"D52, K55",,,,1.0,,2.0,74.1,NMR,,1.5-11.6,298 K,https://pubs.acs.org/doi/abs/10.1021/bi9630927,,,,,,,,1IGC_A_nan_nan_51_ASP
+1DE3,ASP,A,109,3.7,0.2,K111,,,,,,,101.1,NMR,0.1 M,3.0-8.5,298 K,https://pubs.acs.org/doi/abs/10.1021/bi981672t,,,,,,,,1DE3_A_nan_nan_109_ASP
+2CI2,ASP,I,64,3.8,,"K43, E45, R65",,,,,,1.0,35.3,NMR,200 mM,2.0-5.9,315 K,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,,,,,,,,2CI2_I_nan_nan_64_ASP
+1STN,ASP,A,40,3.87,0.09,K110,,,,,,2.0,71.0,NMR,0.1 M,2.5-7.5,298 K,https://www.ncbi.nlm.nih.gov/pubmed/19533744,,,,,,,,1STN_A_nan_nan_40_ASP
+1EGF,ASP,A,11,3.9,0.05,,,,,,,,139.3,1H NMR,,1.5-9.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,,,,,,,,1EGF_A_nan_nan_11_ASP
+1QT8,ASP,A,89,4.0,,,,,,,,,,,,1.8-7.8,,https://onlinelibrary.wiley.com/doi/pdf/10.1002/pro.3562,H26H,A,0.1,53.67,C-NMR,130mM,298K,1QT8_A_H26H_A_89_ASP
+1HNG,ASP,A,72,4.14,0.05,R34,,,,,1.0,1.0,16.1,NMR,100 mM,2.0-10.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi992209z,,,,,,,,1HNG_A_nan_nan_72_ASP
+1HIC,ASP,A,33,4.24,0.17,E35,,,,1.0,,,121.2,1H NMR,,2.0-6.5,295 K,https://www.ncbi.nlm.nih.gov/pubmed/8049231,,,,,,,,1HIC_A_nan_nan_33_ASP
+1IGC,ASP,A,45,4.4,0.1,E61,,,1.0,,,,132.6,NMR,,1.5-11.6,298 K,https://pubs.acs.org/doi/abs/10.1021/bi9630927,,,,,,,,1IGC_A_nan_nan_45_ASP
+1GOA,ASP,A,10,6.1,,,3.0,,,,,2.0,9.6,NMR,0.1 M,2.0-8.0,300 K,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,,,,,,,,1GOA_A_nan_nan_10_ASP
+3WU2,ASP,o,90,1.56,0.14,,1.0,,,1.0,,1.0,19.03,NMR,20mM,3.1-7.9,300K,https://chemistry-europe.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cbic.201900739,,,,,,,,3WU2_o_nan_nan_90_ASP
+1CVO,ASP,A,59,2.3,,K60,,,,,,,39.8,1H NMR,,2.5-7.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi960077t,,,,,,,,1CVO_A_nan_nan_59_ASP
+1GOA,ASP,A,70,2.6,,"Q72, R75",,,,,,,48.0,NMR,0.1 M,2.0-8.0,300 K,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,,,,,,,,1GOA_A_nan_nan_70_ASP
+1AZP,ASP,A,16,2.89,0.01,K19,,,,,,1.0,34.3,13C NMR,0.3 M,0-8,273-373 K,https://www.sciencedirect.com/science/article/pii/S0022283607008972,,,,,,,,1AZP_A_nan_nan_16_ASP
+1LNI,ASP,A,84,3.01,0.02-0.07,H85,,,,,,,59.0,NMR,0.1 M,1.68-8.83,293 K,https://www.ncbi.nlm.nih.gov/pubmed/12527309,,,,,,,,1LNI_A_nan_nan_84_ASP
+1BI6,ASP,H,32,3.1,0.2,,,,,,,,17.3,NMR,,1.5-7.0,313 K,https://www.ncbi.nlm.nih.gov/pubmed/12674503,,,,,,,,1BI6_H_nan_nan_32_ASP
+1GOA,ASP,A,108,3.2,,,1.0,,,,,1.0,31.8,NMR,0.1 M,2.0-8.0,300 K,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,,,,,,,,1GOA_A_nan_nan_108_ASP
+1AZP,ASP,A,56,3.35,0.01,R60,1.0,,,,,2.0,50.3,13C NMR,0.3 M,0-8,273-373 K,https://www.sciencedirect.com/science/article/pii/S0022283607008972,,,,,,,,1AZP_A_nan_nan_56_ASP
+1FNA,ASP,A,80,3.4,<0.05,,,,,,1.0,,105.3,NMR,0.1 M,1.5-7.0,303 K,https://pubs.acs.org/doi/abs/10.1021/bi010916y,,,,,,,,1FNA_A_nan_nan_80_ASP
+3WU2,ASP,o,33,3.47,0.05,Q36,1.0,,1.0,1.0,,1.0,54.22,NMR,20mM,3.1-7.9,300K,https://chemistry-europe.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cbic.201900739,,,,,,,,3WU2_o_nan_nan_33_ASP
+1I0V,ASP,A,15,3.52,0.02,,,,,1.0,,,49.9,NMR,1 M,2.0-9.0,308 K,https://link.springer.com/article/10.1007/s002490100138,,,,,,,,1I0V_A_nan_nan_15_ASP
+1HNG,ASP,A,26,3.58,0.02,D28,,,,,,1.0,104.4,NMR,100 mM,2.0-10.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi992209z,,,,,,,,1HNG_A_nan_nan_26_ASP
+1EGF,ASP,A,40,3.6,0.1,"R41, Q43",,,,,,,62.8,1H NMR,,1.5-9.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,,,,,,,,1EGF_A_nan_nan_40_ASP
+1UBQ,ASP,A,32,3.8,0.1,"Q31, K33, E34",,,,,,1.0,142.4,NMR,0.1 M,1.0-7.0,303 K,https://pubs.acs.org/doi/10.1021/bi025571d,,,,,,,,1UBQ_A_nan_nan_32_ASP
+1H4G,ASP,B,5,3.84,0.02,,,,,,,,99.5,NMR,1 M,3.2-8.7,303 K,https://pubs.acs.org/doi/abs/10.1021/bi049948m,,,,,,,,1H4G_B_nan_nan_5_ASP
+P53378,ASP,A,443,3.9,0.05,,,,,,,,,NMR,,2.3-7.2,297K,https://onlinelibrary.wiley.com/doi/full/10.1002/pro.3618,,,,,,,,P53378_A_nan_nan_443_ASP
+1H4G,ASP,B,12,3.94,0.14,H11,3.0,,,1.0,,1.0,89.6,NMR,1 M,3.2-8.7,303 K,https://pubs.acs.org/doi/abs/10.1021/bi049948m,,,,,,,,1H4G_B_nan_nan_12_ASP
+1GOA,ASP,A,134,4.1,,"E135, R138",,,,,,,32.2,NMR,0.1 M,2.0-8.0,300 K,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,,,,,,,,1GOA_A_nan_nan_134_ASP
+1A2P,ASP,C,86,4.2,0.1,"D75, R87",1.0,,,,1.0,,25.4,2D 1H NMR,50mM-600mM,0.2-6.3,303 K,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,,,,,,,,1A2P_C_nan_nan_86_ASP
+1I0V,ASP,A,29,4.26,0.03,E31,,,,,,1.0,101.6,NMR,1 M,2.0-9.0,308 K,https://link.springer.com/article/10.1007/s002490100138,,,,,,,,1I0V_A_nan_nan_29_ASP
+2CI2,ASP,I,74,5.0,,,,,,,,1.0,78.8,NMR,200 mM,2.0-5.9,315 K,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,,,,,,,,2CI2_I_nan_nan_74_ASP
+2TRX,ASP,A,26,7.5,,K57,,,,,,2.0,1.2,NMR,1 M,,298-308 K,https://pubs.acs.org/doi/abs/10.1021/bi961801a,,,,,,,,2TRX_A_nan_nan_26_ASP
+1A2P,GLU,C,73,2.1,0.1,"D54, R72",1.0,,,,,1.0,8.3,2D 1H NMR,50mM-600mM,0.2-6.3,303 K,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,,,,,,,,1A2P_C_nan_nan_73_GLU
+1LNI,GLU,A,78,3.13,0.02-0.07,D79,2.0,,,,,1.0,14.3,NMR,0.1 M,1.68-8.83,293 K,https://www.ncbi.nlm.nih.gov/pubmed/12527309,,,,,,,,1LNI_A_nan_nan_78_GLU
+1BI6,GLU,H,1,3.3,0.1,E2,,,,,,,48.3,NMR,,1.5-7.0,313 K,https://www.ncbi.nlm.nih.gov/pubmed/12674503,,,,,,,,1BI6_H_nan_nan_1_GLU
+2CI2,GLU,I,60,3.5,,"R62, R65, R67",,,,,,1.0,72.3,NMR,200 mM,2.0-5.9,315 K,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,,,,,,,,2CI2_I_nan_nan_60_GLU
+1H4G,GLU,B,167,3.58,0.13,,1.0,,,,,,43.6,NMR,1 M,3.2-8.7,303 K,https://pubs.acs.org/doi/abs/10.1021/bi049948m,,,,,,,,1H4G_B_nan_nan_167_GLU
+1STN,GLU,A,129,3.75,0.09,"Q131, K133",1.0,,,1.0,,2.0,11.8,NMR,0.1 M,2.5-7.5,298 K,https://www.ncbi.nlm.nih.gov/pubmed/19533744,,,,,,,,1STN_A_nan_nan_129_GLU
+1FNA,GLU,A,38,3.8,<0.05,,1.0,,,,,1.0,41.6,NMR,0.1 M,1.5-7.0,303 K,https://pubs.acs.org/doi/abs/10.1021/bi010916y,,,,,,,,1FNA_A_nan_nan_38_GLU
+2CI2,GLU,I,45,3.9,,"Q47, D64",,,,,,,70.8,NMR,200 mM,2.0-5.9,315 K,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,,,,,,,,2CI2_I_nan_nan_45_GLU
+1H4G,GLU,B,94,3.94,0.04,"K142, Q143",2.0,,,,,,8.5,NMR,1 M,3.2-8.7,303 K,https://pubs.acs.org/doi/abs/10.1021/bi049948m,,,,,,,,1H4G_B_nan_nan_94_GLU
+1CA5,GLU,A,14,4.0,0.01,K13,,,,,,,78.3,13C NMR,0.3 M,0-8,273-373 K,https://www.sciencedirect.com/science/article/pii/S0022283607008972,,,,,,,,1CA5_A_nan_nan_14_GLU
+2BCA,GLU,A,26,4.08,0.04,"K25, E27, K29",,,,,1.0,2.0,91.0,NMR,1 M,,300 K,https://onlinelibrary.wiley.com/doi/pdf/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,,,,,,,,2BCA_A_nan_nan_26_GLU
+3FT7,GLU,B,20,4.12,0.04,"Q19, H22, D23, R24",,,,,,,95.99,NMR,<60mM,0-12.5,298 K,https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201800628,,,,,,,,3FT7_B_nan_nan_20_GLU
+3WU2,GLU,o,232,4.2,0.1,"K53, H231",,,,,,1.0,78.9,NMR,20mM,3.1-7.9,300K,https://chemistry-europe.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cbic.201900739,,,,,,,,3WU2_o_nan_nan_232_GLU
+1DIV,GLU,A,48,4.21,0.08,"Q50, K51, Q52",,,,,,2.0,43.7,NMR,104 mM,1.5-12.5,298 K,pKa Values and the pH Dependent Stability of the NTRinal Domain of L9 as Probes of Electrostatic Interactions in the Denatured State. Differentiation between Local and Nonlocal Interactions,,,,,,,,1DIV_A_nan_nan_48_GLU
+1CA5,GLU,A,64,4.23,0.01,"R63, K65, K66",,,,,,,78.5,13C NMR,0.3 M,0-8,273-373 K,https://www.sciencedirect.com/science/article/pii/S0022283607008972,,,,,,,,1CA5_A_nan_nan_64_GLU
+1GOA,GLU,A,135,4.3,,"D134, R138",,,,,,,79.1,NMR,0.1 M,2.0-8.0,300 K,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,,,,,,,,1GOA_A_nan_nan_135_GLU
+1YRF,GLU,A,72,4.37,,,,,,,,,,,,2.0-7.0,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8197028/pdf/nihms-1705730.pdf,"D44N,K48M",A,0.03,100.59,NMR,0M,298K,"1YRF_A_D44N,K48M_A_72_GLU"
+1GOA,GLU,A,48,4.4,,,1.0,,,,,1.0,20.0,NMR,0.1 M,2.0-8.0,300 K,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,,,,,,,,1GOA_A_nan_nan_48_GLU
+3WU2,GLU,o,54,4.47,0.06,"K53, E55",,,,,,1.0,88.39,NMR,20mM,3.1-7.9,300K,https://chemistry-europe.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cbic.201900739,,,,,,,,3WU2_o_nan_nan_54_GLU
+1FMH,GLU,A,8,4.52,0.01,"K7, Q11, E13",1.0,,,,,2.0,37.8,1H NMR,0.1 M,1.2-8.0,310 K,https://pubs.acs.org/doi/abs/10.1021/bi001242e,,,,,,,,1FMH_A_nan_nan_8_GLU
+1ERT,GLU,A,70,4.6,0.08,K72,,,,,,,95.7,NMR,100 mM,1.9-10.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi952299h,,,,,,,,1ERT_A_nan_nan_70_GLU
+1ERT,GLU,A,13,4.8,0.2,"Q12, D16",,,,,,2.0,94.9,1H NMR,75-100 mM,2.1-10.6,313 K,https://pubs.acs.org/doi/abs/10.1021/bi00128a019,,,,,,,,1ERT_A_nan_nan_13_GLU
+3WU2,GLU,o,98,4.99,0.04,D99,2.0,,,,,1.0,66.01,NMR,20mM,3.1-7.9,300K,https://chemistry-europe.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cbic.201900739,,,,,,,,3WU2_o_nan_nan_98_GLU
+1A91,GLU,A,2,5.5,0.3,,,,,,,,13.2,NMR,50 mM,3.3-8.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00049a034,,,,,,,,1A91_A_nan_nan_2_GLU
+1HNG,GLU,A,41,6.73,0.05,,,,,,,1.0,17.5,NMR,100 mM,2.0-10.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi992209z,,,,,,,,1HNG_A_nan_nan_41_GLU
+3WU2,GLU,o,210,2.66,0.12,D205,2.0,,,,,1.0,40.29,NMR,20mM,3.1-7.9,300K,https://chemistry-europe.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cbic.201900739,,,,,,,,3WU2_o_nan_nan_210_GLU
+1NLX,GLU,A,408,3.19,,"E7, Q9, K10",,,,,,1.0,30.45,NMR,10mM,2.2-8.5,298K,https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.9b00540,,,,,,,,1NLX_A_nan_nan_408_GLU
+2CI2,GLU,I,26,3.3,,K30,1.0,,,,,,66.3,NMR,200 mM,2.0-5.9,315 K,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,,,,,,,,2CI2_I_nan_nan_26_GLU
+3FT7,GLU,B,27,3.52,0.05,"K30, E31",,,,,,1.0,110.34,NMR,<60mM,0-12.5,298 K,https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201800628,,,,,,,,3FT7_B_nan_nan_27_GLU
+1GOA,GLU,A,129,3.6,,"H124, H127, E131",,,,,,,32.6,NMR,0.1 M,2.0-8.0,300 K,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,,,,,,,,1GOA_A_nan_nan_129_GLU
+1STN,GLU,A,67,3.76,0.07,,,,,,,1.0,75.7,NMR,0.1 M,2.5-7.5,298 K,https://www.ncbi.nlm.nih.gov/pubmed/19533744,,,,,,,,1STN_A_nan_nan_67_GLU
+1BHC,GLU,J,49,3.8,0.1,"D50, R53",2.0,,,,,,4.7,NMR,200 mM,0-16,293 K,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,,,,,,,,1BHC_J_nan_nan_49_GLU
+1GOA,GLU,A,61,3.9,,"K60, H62, H114",,,,,,,77.7,NMR,0.1 M,2.0-8.0,300 K,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,,,,,,,,1GOA_A_nan_nan_61_GLU
+1BVI,GLU,B,58,3.96,0.03,H40,,,,,,,11.1,NMR,1 M,2.0-9.0,308 K,https://link.springer.com/article/10.1007/s002490100138,,,,,,,,1BVI_B_nan_nan_58_GLU
+1KF3,GLU,A,86,4.0,0.1,R85,1.0,,,,,1.0,55.2,NMR,1 M,1.2-7.9,303 K,https://www.ncbi.nlm.nih.gov/pubmed/8615690,,,,,,,,1KF3_A_nan_nan_86_GLU
+1EGF,GLU,A,24,4.1,0.1,D27,,,,,,1.0,73.7,1H NMR,,1.5-9.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,,,,,,,,1EGF_A_nan_nan_24_GLU
+1LNI,GLU,A,41,4.14,0.02-0.07,,,,,,,,68.5,NMR,0.1 M,1.68-8.83,293 K,https://www.ncbi.nlm.nih.gov/pubmed/12527309,,,,,,,,1LNI_A_nan_nan_41_GLU
+1IGC,GLU,A,61,4.2,0.1,,,,,1.0,,,76.1,NMR,,1.5-11.6,298 K,https://pubs.acs.org/doi/abs/10.1021/bi9630927,,,,,,,,1IGC_A_nan_nan_61_GLU
+1DIV,GLU,A,54,4.21,0.08,"K53, Q55, R56, Q57",,,,,,2.0,35.7,NMR,105 mM,1.5-12.5,298 K,pKa Values and the pH Dependent Stability of the NTRinal Domain of L9 as Probes of Electrostatic Interactions in the Denatured State. Differentiation between Local and Nonlocal Interactions,,,,,,,,1DIV_A_nan_nan_54_GLU
+1NLX,GLU,A,407,4.25,,"E8, Q9, K10",,,,,,1.0,43.57,NMR,10mM,2.2-8.5,298K,https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.9b00540,,,,,,,,1NLX_A_nan_nan_407_GLU
+1KF3,GLU,A,49,4.3,0.1,H48,,,,1.0,,,34.5,NMR,1 M,1.2-7.9,303 K,https://www.ncbi.nlm.nih.gov/pubmed/8615690,,,,,,,,1KF3_A_nan_nan_49_GLU
+2ZTA,GLU,A,20,4.38,0.01,E22,,,,,,1.0,54.0,NMR,150 mM,1.0-13.0,298 K,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,,,,,,,,2ZTA_A_nan_nan_20_GLU
+1ERT,GLU,A,103,4.4,0.07,,,,,,,,106.7,NMR,101 mM,1.9-10.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi952299h,,,,,,,,1ERT_A_nan_nan_103_GLU
+1UBQ,GLU,A,34,4.5,0.1,,,,,,,1.0,56.6,NMR,0.1 M,1.0-7.0,303 K,https://pubs.acs.org/doi/10.1021/bi025571d,,,,,,,,1UBQ_A_nan_nan_34_GLU
+1H4G,GLU,B,56,4.55,0.02,K175,,,,,,,49.7,NMR,1 M,3.2-8.7,303 K,https://pubs.acs.org/doi/abs/10.1021/bi049948m,,,,,,,,1H4G_B_nan_nan_56_GLU
+3WU2,GLU,o,84,4.64,0.07,K86,,,,,,1.0,53.36,NMR,20mM,3.1-7.9,300K,https://chemistry-europe.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cbic.201900739,,,,,,,,3WU2_o_nan_nan_84_GLU
+1FMH,GLU,A,22,4.82,0.03,"E20, Q21, Q25, E27",1.0,,,,,2.0,50.7,1H NMR,0.1 M,1.2-8.0,310 K,https://pubs.acs.org/doi/abs/10.1021/bi001242e,,,,,,,,1FMH_A_nan_nan_22_GLU
+1LNI,GLU,A,14,5.02,0.02-0.07,D17,,,,,,1.0,29.0,NMR,0.1 M,1.68-8.83,293 K,https://www.ncbi.nlm.nih.gov/pubmed/12527309,,,,,,,,1LNI_A_nan_nan_14_GLU
+1BVI,GLU,B,28,5.61,0.03,"H27, D29",,,,,,1.0,92.8,NMR,1 M,2.0-9.0,308 K,https://link.springer.com/article/10.1007/s002490100138,,,,,,,,1BVI_B_nan_nan_28_GLU
+1STN,GLU,A,10,2.82,0.09,"K9, E73",2.0,,,,,3.0,17.0,NMR,0.1 M,2.5-7.5,298 K,https://www.ncbi.nlm.nih.gov/pubmed/19533744,,,,,,,,1STN_A_nan_nan_10_GLU
+1STN,GLU,A,75,3.26,0.05,D77,1.0,,,,,2.0,4.8,NMR,0.1 M,2.5-7.5,298 K,https://www.ncbi.nlm.nih.gov/pubmed/19533744,,,,,,,,1STN_A_nan_nan_75_GLU
+1LNI,GLU,A,74,3.47,0.02-0.07,,,,,,,,106.4,NMR,0.1 M,1.68-8.83,293 K,https://www.ncbi.nlm.nih.gov/pubmed/12527309,,,,,,,,1LNI_A_nan_nan_74_GLU
+1CA5,GLU,A,53,3.53,0.01,"K52, D56",,,,,,1.0,47.2,13C NMR,0.3 M,0-8,273-373 K,https://www.sciencedirect.com/science/article/pii/S0022283607008972,,,,,,,,1CA5_A_nan_nan_53_GLU
+1ERT,GLU,A,88,3.7,0.08,,,,,,,,67.7,NMR,100 mM,1.9-10.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi952299h,,,,,,,,1ERT_A_nan_nan_88_GLU
+1UBQ,GLU,A,51,3.8,0.1,"D52, R54",,,1.0,,,,90.2,NMR,0.1 M,1.0-7.0,303 K,https://pubs.acs.org/doi/10.1021/bi025571d,,,,,,,,1UBQ_A_nan_nan_51_GLU
+1STN,GLU,A,122,3.89,0.09,"H121, Q123, H124, R126",1.0,,,,,1.0,26.2,NMR,0.1 M,2.5-7.5,298 K,https://www.ncbi.nlm.nih.gov/pubmed/19533744,,,,,,,,1STN_A_nan_nan_122_GLU
+1HNG,GLU,A,56,3.92,0.01,"D62, K64",,,,,,1.0,51.6,NMR,100 mM,2.0-10.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi992209z,,,,,,,,1HNG_A_nan_nan_56_GLU
+1AZP,GLU,A,14,4.0,0.01,K3,,,,,,,65.8,13C NMR,0.3 M,0-8,273-373 K,https://www.sciencedirect.com/science/article/pii/S0022283607008972,,,,,,,,1AZP_A_nan_nan_14_GLU
+2ZTA,GLU,A,11,4.05,0.03,"E10, K15",,,,,,,67.4,NMR,150 mM,1.0-13.0,298 K,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,,,,,,,,2ZTA_A_nan_nan_11_GLU
+1GOA,GLU,A,119,4.1,,,,,,,,2.0,50.5,NMR,0.1 M,2.0-8.0,300 K,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,,,,,,,,1GOA_A_nan_nan_119_GLU
+1AZP,GLU,A,11,4.19,0.01,"K7, E12, K13",1.0,,,,,2.0,71.0,13C NMR,0.3 M,0-8,273-373 K,https://www.sciencedirect.com/science/article/pii/S0022283607008972,,,,,,,,1AZP_A_nan_nan_11_GLU
+1IGC,GLU,A,29,4.2,0.1,K33,,,,,,,92.0,NMR,,1.5-11.6,298 K,https://pubs.acs.org/doi/abs/10.1021/bi9630927,,,,,,,,1IGC_A_nan_nan_29_GLU
+1FMH,GLU,B,1,4.22,0.02,"Q3, K6",,,,,,1.0,118.4,1H NMR,0.1 M,1.2-8.0,310 K,https://pubs.acs.org/doi/abs/10.1021/bi001242e,,,,,,,,1FMH_B_nan_nan_1_GLU
+1GOA,GLU,A,131,4.3,,"R132, D134, E135",,,,,,,66.1,NMR,0.1 M,2.0-8.0,300 K,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,,,,,,,,1GOA_A_nan_nan_131_GLU
+1STN,GLU,A,43,4.32,0.04,E52,,,1.0,,,1.0,32.3,NMR,0.1 M,2.5-7.5,298 K,https://www.ncbi.nlm.nih.gov/pubmed/19533744,,,,,,,,1STN_A_nan_nan_43_GLU
+1GOA,GLU,A,64,4.4,,Q4,,,,,,,57.6,NMR,0.1 M,2.0-8.0,300 K,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,,,,,,,,1GOA_A_nan_nan_64_GLU
+1AZP,GLU,A,12,4.41,0.01,"E11, K13",,,,,,,91.1,13C NMR,0.3 M,0-8,273-373 K,https://www.sciencedirect.com/science/article/pii/S0022283607008972,,,,,,,,1AZP_A_nan_nan_12_GLU
+1GOA,GLU,A,6,4.5,,R27,,,,,,1.0,44.7,NMR,0.1 M,2.0-8.0,300 K,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,,,,,,,,1GOA_A_nan_nan_6_GLU
+2ZTA,GLU,A,6,4.6,0.15,"D7, K8, E10",,,,,,1.0,62.2,NMR,150 mM,1.0-13.0,298 K,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,,,,,,,,2ZTA_A_nan_nan_6_GLU
+P53378,GLU,A,461,4.67,0.06,,,,,,,,,NMR,,2.3-7.2,297K,https://onlinelibrary.wiley.com/doi/full/10.1002/pro.3618,,,,,,,,P53378_A_nan_nan_461_GLU
+1ERT,GLU,A,68,4.9,0.07,E70,,,,,,,97.6,NMR,100 mM,1.9-10.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi952299h,,,,,,,,1ERT_A_nan_nan_68_GLU
+1BVI,GLU,B,31,5.36,0.07,,,,,,,1.0,79.0,NMR,1 M,2.0-9.0,308 K,https://link.springer.com/article/10.1007/s002490100138,,,,,,,,1BVI_B_nan_nan_31_GLU
+135L,GLU,A,35,6.06,0.12,Q57,,,,,,1.0,26.2,NMR,2.5 M,1.0-7.0,308 K,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,,,,,,,,135L_A_nan_nan_35_GLU
+1A2P,GLU,C,60,3.0,0.1,K62,,,,,,,112.0,2D 1H NMR,50mM-600mM,0.2-6.3,303 K,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,,,,,,,,1A2P_C_nan_nan_60_GLU
+1BVI,GLU,B,82,3.27,0.02,,2.0,,,,,,59.8,NMR,1 M,2.0-9.0,308 K,https://link.springer.com/article/10.1007/s002490100138,,,,,,,,1BVI_B_nan_nan_82_GLU
+1STN,GLU,A,57,3.49,0.09,,,,,,,1.0,72.7,NMR,0.1 M,2.5-7.5,298 K,https://www.ncbi.nlm.nih.gov/pubmed/19533744,,,,,,,,1STN_A_nan_nan_57_GLU
+1DIV,GLU,A,17,3.57,0.05,K19,,,,,,2.0,51.7,NMR,102 mM,1.5-12.5,298 K,pKa Values and the pH Dependent Stability of the NTRinal Domain of L9 as Probes of Electrostatic Interactions in the Denatured State. Differentiation between Local and Nonlocal Interactions,,,,,,,,1DIV_A_nan_nan_17_GLU
+1BHC,GLU,J,7,3.7,0.1,,,,,,1.0,1.0,48.4,NMR,200 mM,0-16,293 K,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,,,,,,,,1BHC_J_nan_nan_7_GLU
+2CI2,GLU,I,34,3.8,,"E33, K36, K37",,,,,,,77.4,NMR,200 mM,2.0-5.9,315 K,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,,,,,,,,2CI2_I_nan_nan_34_GLU
+1ERT,GLU,A,98,3.9,0.02,,3.0,,,,,,29.4,NMR,100 mM,1.9-10.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi952299h,,,,,,,,1ERT_A_nan_nan_98_GLU
+1STN,GLU,A,52,3.93,0.08,K53,,,,1.0,,2.0,27.9,NMR,0.1 M,2.5-7.5,298 K,https://www.ncbi.nlm.nih.gov/pubmed/19533744,,,,,,,,1STN_A_nan_nan_52_GLU
+1BI6,GLU,L,5,4.0,0.1,,,,,,,,74.4,NMR,,1.5-7.0,313 K,https://www.ncbi.nlm.nih.gov/pubmed/12674503,,,,,,,,1BI6_L_nan_nan_5_GLU
+1NLX,GLU,A,466,4.06,,D65,,,,,,1.0,104.28,NMR,10mM,2.2-8.5,298K,https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.9b00540,,,,,,,,1NLX_A_nan_nan_466_GLU
+1FMH,GLU,A,15,4.11,0.02,"Q18, E20",,,,,,2.0,34.5,1H NMR,0.1 M,1.2-8.0,310 K,https://pubs.acs.org/doi/abs/10.1021/bi001242e,,,,,,,,1FMH_A_nan_nan_15_GLU
+1CA5,GLU,A,11,4.19,0.01,E12,,,,,,,104.4,13C NMR,0.3 M,0-8,273-373 K,https://www.sciencedirect.com/science/article/pii/S0022283607008972,,,,,,,,1CA5_A_nan_nan_11_GLU
+1GOA,GLU,A,147,4.2,,D148,,,,,,,98.7,NMR,0.1 M,2.0-8.0,300 K,https://pubs.acs.org/doi/abs/10.1021/bi00183a034,,,,,,,,1GOA_A_nan_nan_147_GLU
+1AZP,GLU,A,64,4.23,0.01,"R63, K65, K66",,,,,,1.0,95.0,13C NMR,0.3 M,0-8,273-373 K,https://www.sciencedirect.com/science/article/pii/S0022283607008972,,,,,,,,1AZP_A_nan_nan_64_GLU
+1UBQ,GLU,A,24,4.3,0.1,K27,,,,,,1.0,95.5,NMR,0.1 M,1.0-7.0,303 K,https://pubs.acs.org/doi/10.1021/bi025571d,,,,,,,,1UBQ_A_nan_nan_24_GLU
+1HIC,GLU,A,35,4.32,0.12,"D33, K36",,,,,,,76.3,1H NMR,,2.0-6.5,295 K,https://www.ncbi.nlm.nih.gov/pubmed/8049231,,,,,,,,1HIC_A_nan_nan_35_GLU
+1BUS,GLU,A,20,4.4,,"K11, R19",,,1.0,,,,43.7,1H NMR,0.1 M,3.0-6.0,318 K,https://www.ncbi.nlm.nih.gov/pubmed/6094827,,,,,,,,1BUS_A_nan_nan_20_GLU
+1HNG,GLU,A,29,4.42,0.04,,1.0,,,,,1.0,20.5,NMR,100 mM,2.0-10.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi992209z,,,,,,,,1HNG_A_nan_nan_29_GLU
+1H4G,GLU,B,126,4.51,0.02,,,,,,,,51.0,NMR,1 M,3.2-8.7,303 K,https://pubs.acs.org/doi/abs/10.1021/bi049948m,,,,,,,,1H4G_B_nan_nan_126_GLU
+1IGC,GLU,A,32,4.6,0.1,"K33, K36",2.0,,,,,1.0,39.7,NMR,,1.5-11.6,298 K,https://pubs.acs.org/doi/abs/10.1021/bi9630927,,,,,,,,1IGC_A_nan_nan_32_GLU
+P53378,GLU,A,459,4.68,0.04,,,,,,,,,NMR,,2.3-7.2,297K,https://onlinelibrary.wiley.com/doi/full/10.1002/pro.3618,,,,,,,,P53378_A_nan_nan_459_GLU
+3WU2,GLU,o,244,4.97,0.08,R39 ,,,,,,2.0,84.36,NMR,20mM,3.1-7.9,300K,https://chemistry-europe.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cbic.201900739,,,,,,,,3WU2_o_nan_nan_244_GLU
+1ANS,GLU,A,20,5.4,0.2,,,,,,,,140.6,NMR,,1.8-12.0,300 K,https://www.ncbi.nlm.nih.gov/pubmed/8102051,,,,,,,,1ANS_A_nan_nan_20_GLU
+1H4G,GLU,B,184,6.5,0.2,,2.0,,,,,2.0,7.8,NMR,1 M,3.2-8.7,303 K,https://pubs.acs.org/doi/abs/10.1021/bi049948m,,,,,,,,1H4G_B_nan_nan_184_GLU
+135L,GLU,A,7,2.68,0.09,,1.0,,,,,,68.1,NMR,2.5 M,1.0-7.0,308 K,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,,,,,,,,135L_A_nan_nan_7_GLU
+2CI2,GLU,I,23,3.2,,K21,,,,,,,62.0,NMR,200 mM,2.0-5.9,315 K,https://www.sciencedirect.com/science/article/pii/S0022283685706705?via%3Dihub,,,,,,,,2CI2_I_nan_nan_23_GLU
+1STN,GLU,A,73,3.31,0.01,,,,,,,2.0,41.0,NMR,0.1 M,2.5-7.5,298 K,https://www.ncbi.nlm.nih.gov/pubmed/19533744,,,,,,,,1STN_A_nan_nan_73_GLU
+1NLX,GLU,A,481,3.52,,D82,,,,,,,110.67,NMR,10mM,2.2-8.5,298K,https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.9b00540,,,,,,,,1NLX_A_nan_nan_481_GLU
+1BVI,GLU,B,46,3.62,0.04,,1.0,,1.0,,,,39.2,NMR,1 M,2.0-9.0,308 K,https://link.springer.com/article/10.1007/s002490100138,,,,,,,,1BVI_B_nan_nan_46_GLU
+1STN,GLU,A,135,3.76,0.08,K136,2.0,,,,,1.0,63.3,NMR,0.1 M,2.5-7.5,298 K,https://www.ncbi.nlm.nih.gov/pubmed/19533744,,,,,,,,1STN_A_nan_nan_135_GLU
+1STN,GLU,A,101,3.81,0.1,R105,1.0,,,,,1.0,31.8,NMR,0.1 M,2.5-7.5,298 K,https://www.ncbi.nlm.nih.gov/pubmed/19533744,,,,,,,,1STN_A_nan_nan_101_GLU
+1FNA,GLU,A,47,3.9,<0.05,Q46,2.0,,,,,,72.8,NMR,0.1 M,1.5-7.0,303 K,https://pubs.acs.org/doi/abs/10.1021/bi010916y,,,,,,,,1FNA_A_nan_nan_47_GLU
+1AZP,GLU,A,62,3.99,0.01,"R63, E64",,,,,,1.0,84.1,13C NMR,0.3 M,0-8,273-373 K,https://www.sciencedirect.com/science/article/pii/S0022283607008972,,,,,,,,1AZP_A_nan_nan_62_GLU
+1CVO,GLU,A,17,4.0,,K19,,,,,,,89.1,1H NMR,,2.5-7.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi960077t,,,,,,,,1CVO_A_nan_nan_17_GLU
+1H4G,GLU,B,178,4.1,0.2,,3.0,,,,1.0,,0.0,NMR,1 M,3.2-8.7,303 K,https://pubs.acs.org/doi/abs/10.1021/bi049948m,,,,,,,,1H4G_B_nan_nan_178_GLU
+1HNG,GLU,A,33,4.16,0.02,R34,,,,,,2.0,44.5,NMR,100 mM,2.0-10.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi992209z,,,,,,,,1HNG_A_nan_nan_33_GLU
+1BI6,GLU,H,24,4.2,0.1,K27,,,,,,2.0,53.2,NMR,,1.5-7.0,313 K,https://www.ncbi.nlm.nih.gov/pubmed/12674503,,,,,,,,1BI6_H_nan_nan_24_GLU
+1CA5,GLU,A,47,4.21,0.01,"K48, D49",,,,,,,43.8,13C NMR,0.3 M,0-8,273-373 K,https://www.sciencedirect.com/science/article/pii/S0022283607008972,,,,,,,,1CA5_A_nan_nan_47_GLU
+1HNG,GLU,A,99,4.25,0.04,,,,,,1.0,,42.5,NMR,100 mM,2.0-10.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi992209z,,,,,,,,1HNG_A_nan_nan_99_GLU
+1H4G,GLU,B,17,4.31,0.07,R49,3.0,,,,1.0,1.0,18.8,NMR,1 M,3.2-8.7,303 K,https://pubs.acs.org/doi/abs/10.1021/bi049948m,,,,,,,,1H4G_B_nan_nan_17_GLU
+1YRF,GLU,A,45,4.39,,,,,,,,,,,,2.0-7.0,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8197028/pdf/nihms-1705730.pdf,"D44N,K48M",A,0.05,0.0,NMR,0M,298K,"1YRF_A_D44N,K48M_A_45_GLU"
+1FMH,GLU,A,20,4.41,0.07,"Q18, Q21, E22, Q25",2.0,,,,,2.0,39.4,1H NMR,0.1 M,1.2-8.0,310 K,https://pubs.acs.org/doi/abs/10.1021/bi001242e,,,,,,,,1FMH_A_nan_nan_20_GLU
+1BUS,GLU,A,9,4.5,,"K11, K52",,,,,,,2.3,1H NMR,0.1 M,3.0-6.0,318 K,https://www.ncbi.nlm.nih.gov/pubmed/6094827,,,,,,,,1BUS_A_nan_nan_9_GLU
+3FT7,GLU,B,31,4.59,0.04,,,,,,,1.0,118.47,NMR,<60mM,0-12.5,298 K,https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201800628,,,,,,,,3FT7_B_nan_nan_31_GLU
+P53378,GLU,A,462,4.64,0.04,,,,,,,,,NMR,,2.3-7.2,297K,https://onlinelibrary.wiley.com/doi/full/10.1002/pro.3618,,,,,,,,P53378_A_nan_nan_462_GLU
+1FMH,GLU,A,6,4.82,0.07,"K7, E8, Q11",,,,,,2.0,72.3,1H NMR,0.1 M,1.2-8.0,310 K,https://pubs.acs.org/doi/abs/10.1021/bi001242e,,,,,,,,1FMH_A_nan_nan_6_GLU
+3WU2,GLU,o,218,5.13,0.07,"Q196, Q219",,,,,,2.0,62.43,NMR,20mM,3.1-7.9,300K,https://chemistry-europe.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cbic.201900739,,,,,,,,3WU2_o_nan_nan_218_GLU
+1DE3,GLU,A,96,5.7,,,,,,,,,,,,3.0-8.5,,https://pubs.acs.org/doi/abs/10.1021/bi0349773,H137Q,A,0.1,,NMR,0.2 M,308 K,1DE3_A_H137Q_A_96_GLU
+1KF3,HIS,A,12,6.0,0.1,"E9, R10, Q11",,1.0,,,,2.0,6.6,NMR,1 M,1.2-7.9,303 K,https://www.ncbi.nlm.nih.gov/pubmed/8615690,,,,,,,,1KF3_A_nan_nan_12_HIS
+1A2P,HIS,C,102,6.3,0.05,D101,,,,,,,71.0,NMR,5M,6.0-9.0,298 K,https://www.ncbi.nlm.nih.gov/pubmed/3173493,,,,,,,,1A2P_C_nan_nan_102_HIS
+1J7P,HIS,A,144,6.47,,,,,,,,,,,,4.5-8.5,,https://onlinelibrary.wiley.com/doi/am-pdf/10.1002/prot.25321,"E127A,M144H",A,0.02,47.53,NMR,60mM,298K,"1J7P_A_E127A,M144H_A_144_HIS"
+2PYO,HIS,D,106,6.52,0.05,"E102, K105",,,,,,1.0,93.39,NMR,200 mM,4.4-9.1,303 K,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8626509/pdf/41598_2021_Article_2436.pdf,,,,,,,,2PYO_D_nan_nan_106_HIS
+1QT8,HIS,A,26,6.8,,,,,,,,,,,,,,https://onlinelibrary.wiley.com/doi/pdf/10.1002/pro.3562,H26H,A,0.1,17.39,C-NMR,130mM,298K,1QT8_A_H26H_A_26_HIS
+3FT7,HIS,B,51,6.94,0.03,"D49, D52",,,,,,,39.42,NMR,<60mM,0-12.5,298 K,https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201800628,,,,,,,,3FT7_B_nan_nan_51_HIS
+1BVI,HIS,B,92,7.31,0.04,,,1.0,,,,1.0,32.8,NMR,1 M,2.0-9.0,308 K,https://link.springer.com/article/10.1007/s002490100138,,,,,,,,1BVI_B_nan_nan_92_HIS
+1GYM,HIS,A,32,7.6,,"D33, Q51, D273",1.0,,,,1.0,1.0,14.0,NMR,,4.0-9.0,298 K,https://www.ncbi.nlm.nih.gov/pubmed/9300493,,,,,,,,1GYM_A_nan_nan_32_HIS
+3SSI,HIS,A,43,3.25,,,,1.0,,1.0,,,5.7,NMR,,2.0-9.0,303 K,https://www.ncbi.nlm.nih.gov/pubmed/6998977,,,,,,,,3SSI_A_nan_nan_43_HIS
+1DUK,HIS,A,113,5.46,0.05,E109,,,,,1.0,2.0,45.6,NMR,0.1 M,5.5-10,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00143a018,,,,,,,,1DUK_A_nan_nan_113_HIS
+1FKS,HIS,A,94,5.84,0.02,,,,,,,1.0,95.7,NMR,0.1 M,4.6-10.7,298 K,https://www.sciencedirect.com/science/article/pii/0167483894901325?via%3Dihub,,,,,,,,1FKS_A_nan_nan_94_HIS
+2CPL,HIS,A,126,6.34,0.01,K125,,1.0,,,,,16.4,NMR,0.1 M,4.6-10.7,293 K,https://www.sciencedirect.com/science/article/pii/0167483894901325?via%3Dihub,,,,,,,,2CPL_A_nan_nan_126_HIS
+1DUK,HIS,A,116,6.63,0.02,H113,,,,,,1.0,62.8,NMR,0.1 M,5.5-10,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00143a018,,,,,,,,1DUK_A_nan_nan_116_HIS
+1B2V,HIS,A,83,7.0,,,,,,,,,,,,4.9-9.0,,https://www.ncbi.nlm.nih.gov/pubmed/11910020,Y75A,A,,,NMR,0.1 M,303 K,1B2V_A_Y75A_A_83_HIS
+1DE3,HIS,A,92,7.2,,,,,,,,,,,,3.0-8.5,,https://pubs.acs.org/doi/abs/10.1021/bi0349773,E96Q,A,0.1,,NMR,0.2 M,308 K,1DE3_A_E96Q_A_92_HIS
+1A2P,HIS,C,18,7.75,0.02,K19,,,,,,1.0,45.5,1H NMR,10mM,5.6-8.7,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00241a021,,,,,,,,1A2P_C_nan_nan_18_HIS
+1EY0,HIS,A,124,5.73,0.02,"H121, E122, Q123",,,,,,,64.8,1H NMR,0.1 M,4.0-9.0,298 K,https://www.ncbi.nlm.nih.gov/pubmed/11969427,,,,,,,,1EY0_A_nan_nan_124_HIS
+1J7P,HIS,A,107,5.9,,,,,,,,,,,,4.5-8.5,,https://onlinelibrary.wiley.com/doi/am-pdf/10.1002/prot.25321,"E127A,M144H",A,0.03,102.0,NMR,60mM,298K,"1J7P_A_E127A,M144H_A_107_HIS"
+6OBI,HIS,A,28,6.25,,,,,,,,,,,,"2.0-10 (Does not directly list in methods, but is on titration graph)",,https://spin.niddk.nih.gov/bax/lit/508/452.pdf,E28H,A,,0.0,NMR,20MM,,6OBI_A_E28H_A_28_HIS
+1HRC,HIS,A,33,6.4,,,,,1.0,,,,22.3,NMR,0.1 M,3.0-11.0,303 K,https://pubs.acs.org/doi/abs/10.1021/bi00654a018,,,,,,,,1HRC_A_nan_nan_33_HIS
+1HHO,HIS,B,2,6.7,0.1,,,,,,,,103.7,NMR,,5.0-9.0,309.5 K,https://pubs.acs.org/doi/abs/10.1021/bi00560a010,,,,,,,,1HHO_B_nan_nan_2_HIS
+1GYM,HIS,A,227,6.9,,D224,2.0,,,,,,9.2,NMR,,4.0-9.0,298 K,https://www.ncbi.nlm.nih.gov/pubmed/9300493,,,,,,,,1GYM_A_nan_nan_227_HIS
+1DE3,HIS,A,36,7.3,,,,,,,,,,,,3.0-8.5,,https://pubs.acs.org/doi/abs/10.1021/bi0349773,E96Q,A,0.2,,NMR,0.2 M,308 K,1DE3_A_E96Q_A_36_HIS
+1B2V,HIS,A,32,7.5,,,,,,,,,,,,4.9-9.0,,https://www.ncbi.nlm.nih.gov/pubmed/11910020,Y75A,A,,,NMR,0.1 M,303 K,1B2V_A_Y75A_A_32_HIS
+1DUK,HIS,A,36,7.84,0.01,"k78, K79, H82",1.0,,,,,1.0,21.8,NMR,0.1 M,5.5-10,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00143a018,,,,,,,,1DUK_A_nan_nan_36_HIS
+1DG9,HIS,A,72,9.19,0.01,K73,1.0,,,,,,14.0,NMR,0.1 M,5.0-10.5,298 K,https://pubs.acs.org/doi/abs/10.1021/bi9712448,,,,,,,,1DG9_A_nan_nan_72_HIS
+6GST,HIS,A,83,5.18,0.05,"R81, K82, H84",,,,,,,47.8,NMR,,4.0-9.0,298 K,https://www.ncbi.nlm.nih.gov/pubmed/1918058,,,,,,,,6GST_A_nan_nan_83_HIS
+1ERA,HIS,A,26,5.8,,K27,,,,,,2.0,19.2,NMR,1 M,3.2-13.0,296 K,https://www.ncbi.nlm.nih.gov/pubmed/710401,,,,,,,,1ERA_A_nan_nan_26_HIS
+1POH,HIS,A,76,6.0,,"K72, K75",,,,,,2.0,39.7,NMR,,4.2-11.0,308 K,https://www.ncbi.nlm.nih.gov/pubmed/6809041,,,,,,,,1POH_A_nan_nan_76_HIS
+1DE3,HIS,A,50,6.4,,,,,,,,,,,,3.0-8.5,,https://pubs.acs.org/doi/abs/10.1021/bi0349773,E96Q,A,0.2,,NMR,0.2 M,308 K,1DE3_A_E96Q_A_50_HIS
+1H4G,HIS,B,11,6.52,0.26,D12,,,,,,2.0,33.8,NMR,1 M,3.2-8.7,303 K,https://pubs.acs.org/doi/abs/10.1021/bi049948m,,,,,,,,1H4G_B_nan_nan_11_HIS
+1U2U,HIS,A,28,6.79,0.01,"Q25, E27, E29",,,,,,,113.1,1H NMR,0.1 M,2.0-9.0,310 K,https://pubs.acs.org/doi/abs/10.1021/bi048771t,,,,,,,,1U2U_A_nan_nan_28_HIS
+1GYM,HIS,A,82,6.9,,H81,,,,,,,30.7,NMR,,4.0-9.0,298 K,https://www.ncbi.nlm.nih.gov/pubmed/9300493,,,,,,,,1GYM_A_nan_nan_82_HIS
+1NLX,HIS,A,490,7.3,,,1.0,,,,,,77.88,NMR,10mM,2.2-8.5,298K,https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.9b00540,,,,,,,,1NLX_A_nan_nan_490_HIS
+1BVI,HIS,B,27,7.57,0.12,"K25, E28",1.0,,,,,,27.0,NMR,1 M,2.0-9.0,308 K,https://link.springer.com/article/10.1007/s002490100138,,,,,,,,1BVI_B_nan_nan_27_HIS
+1GOA,HIS,A,127,7.9,,H124,,,,,,1.0,31.8,NMR,0.1 M,3.5-10.0,300 K,https://www.ncbi.nlm.nih.gov/pubmed/8380173,,,,,,,,1GOA_A_nan_nan_127_HIS
+1H4G,HIS,B,60,4.01,0.02,"Q58, Q61",1.0,,,,,,1.3,NMR,1 M,3.2-8.7,303 K,https://pubs.acs.org/doi/abs/10.1021/bi049948m,,,,,,,,1H4G_B_nan_nan_60_HIS
+2TRX,HIS,A,6,6.2,,,,,,,,,85.2,NMR,1 M,,298-308 K,https://pubs.acs.org/doi/abs/10.1021/bi961801a,,,,,,,,2TRX_A_nan_nan_6_HIS
+1LNI,HIS,A,85,6.35,0.02-0.07,D84,,,,,,,69.1,NMR,0.1 M,1.68-8.83,293 K,https://www.ncbi.nlm.nih.gov/pubmed/12527309,,,,,,,,1LNI_A_nan_nan_85_HIS
+1NLX,HIS,A,505,6.5,,E103,,,,,,,124.68,NMR,10mM,2.2-8.5,298K,https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.9b00540,,,,,,,,1NLX_A_nan_nan_505_HIS
+1DUI,HIS,A,64,6.88,,,,,,,,,,,,6.1-8.0,,https://www.ncbi.nlm.nih.gov/pubmed/3302273,D99S,A,0.02,,Reaction kinetics,0.1 M,298 K,1DUI_A_D99S_A_64_HIS
+1GOA,HIS,A,62,7.0,,E61,,,,,,,94.0,NMR,0.1 M,3.5-10.0,300 K,https://www.ncbi.nlm.nih.gov/pubmed/8380173,,,,,,,,1GOA_A_nan_nan_62_HIS
+6GST,HIS,A,167,7.77,0.03,"D164, Q165",,,,,,1.0,39.1,NMR,,4.0-9.0,298 K,https://www.ncbi.nlm.nih.gov/pubmed/1918058,,,,,,,,6GST_A_nan_nan_167_HIS
+1THE,HIS,A,199,8.6,,,1.0,,,,,2.0,6.5,Reaction kinetics,250 mM,3.2-8.4,297 K,https://www.ncbi.nlm.nih.gov/pubmed/1537854,,,,,,,,1THE_A_nan_nan_199_HIS
+1L54,LYS,A,102,6.5,,,,,,,,,,,,2.2-9.0,,https://pubs.acs.org/doi/abs/10.1021/bi00113a006,K102K,A,,,NMR,0.1 M,298 K,1L54_A_K102K_A_102_LYS
+1XSN,LYS,A,312,9.58,,"R308, E311",,,,,,1.0,15.3,NMR,100 mM,7.0-10.5,298 K,https://pubs.acs.org/doi/abs/10.1021/bi051856p,,,,,,,,1XSN_A_nan_nan_312_LYS
+1LSE,LYS,A,97,10.3,0.1,K96,,,,,,,81.7,Potentiometric titration,0.1 M,1.8-11.1,298 K,https://www.ncbi.nlm.nih.gov/pubmed/6771251,,,,,,,,1LSE_A_nan_nan_97_LYS
+1NFN,LYS,A,1,10.5,0.1,,,,,,,,80.7,NMR,150 mM,5.5-12.5,310 K,https://www.ncbi.nlm.nih.gov/pubmed/12588864,,,,,,,,1NFN_A_nan_nan_1_LYS
+2ZTA,LYS,A,28,10.64,0.12,"R35, K27",,,,,,,96.8,NMR,150 mM,1.0-13.0,298 K,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,,,,,,,,2ZTA_A_nan_nan_28_LYS
+1BHC,LYS,J,41,10.8,0.1,"R39, R42",,,,,,,52.9,NMR,200 mM,0-16,293 K,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,,,,,,,,1BHC_J_nan_nan_41_LYS
+1PPF,LYS,I,55,11.1,0.06,,,,,,,,79.1,NMR,0.015 M,5.0-13.0,298 K,https://pubs.acs.org/doi/pdf/10.1021/bi980187v,,,,,,,,1PPF_I_nan_nan_55_LYS
+3FT7,LYS,B,56,11.44,0.1,,,,,,,,,NMR,<60mM,0-12.5,298 K,https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201800628,,,,,,,,3FT7_B_nan_nan_56_LYS
+1HRC,LYS,A,79,9.0,,,,1.0,,,,,64.5,NMR,0.1 M,3.0-11.0,303 K,https://pubs.acs.org/doi/abs/10.1021/bi00654a018,,,,,,,,1HRC_A_nan_nan_79_LYS
+1NFN,LYS,A,72,10.0,0.1,"K69, E70",,,,,,,69.0,NMR,150 mM,5.5-12.5,310 K,https://www.ncbi.nlm.nih.gov/pubmed/12588864,,,,,,,,1NFN_A_nan_nan_72_LYS
+1NFN,LYS,A,69,10.4,0.1,"D65, E66, E70",,,,,,1.0,74.7,NMR,150 mM,5.5-12.5,310 K,https://www.ncbi.nlm.nih.gov/pubmed/12588864,,,,,,,,1NFN_A_nan_nan_69_LYS
+1BHC,LYS,J,15,10.6,0.1,,,,,,,,53.5,NMR,200 mM,0-16,293 K,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,,,,,,,,1BHC_J_nan_nan_15_LYS
+2BCA,LYS,A,71,10.73,0.05,"Q67, K72",1.0,,,,,1.0,98.8,NMR,,5.25-12.25,300 K,https://www.ncbi.nlm.nih.gov/pubmed/8683586,,,,,,,,2BCA_A_nan_nan_71_LYS
+2BCA,LYS,A,41,10.93,0.02,,,,,,,1.0,90.0,NMR,,5.25-12.25,300 K,https://www.ncbi.nlm.nih.gov/pubmed/8683586,,,,,,,,2BCA_A_nan_nan_41_LYS
+3FT7,LYS,B,30,11.18,0.09,"E27, E31",,,,,,,147.73,NMR,<60mM,0-12.5,298 K,https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201800628,,,,,,,,3FT7_B_nan_nan_30_LYS
+3FT7,LYS,B,45,11.84,0.09,"R41, E46",,,,,,2.0,77.42,NMR,<60mM,0-12.5,298 K,https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201800628,,,,,,,,3FT7_B_nan_nan_45_LYS
+1BEG,LYS,A,94,9.4,,,,,,,,2.0,69.4,NMR,,1.5-11.2,313 K,https://www.ncbi.nlm.nih.gov/pubmed/9862128,,,,,,,,1BEG_A_nan_nan_94_LYS
+1BEG,LYS,A,61,10.1,,K62,,,,,,2.0,77.5,NMR,,1.5-11.2,313 K,https://www.ncbi.nlm.nih.gov/pubmed/9862128,,,,,,,,1BEG_A_nan_nan_61_LYS
+3FT7,LYS,B,32,10.43,0.06,"K30, E31",,,,,,2.0,73.03,NMR,<60mM,0-12.5,298 K,https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201800628,,,,,,,,3FT7_B_nan_nan_32_LYS
+1LSE,LYS,A,33,10.6,0.1,E35,,,,,,2.0,51.6,Potentiometric titration,0.1 M,1.8-11.1,298 K,https://www.ncbi.nlm.nih.gov/pubmed/6771251,,,,,,,,1LSE_A_nan_nan_33_LYS
+1LSE,LYS,A,96,10.8,0.1,K97,,1.0,,,1.0,1.0,34.1,Potentiometric titration,0.1 M,1.8-11.1,298 K,https://www.ncbi.nlm.nih.gov/pubmed/6771251,,,,,,,,1LSE_A_nan_nan_96_LYS
+1NFN,LYS,A,157,11.1,0.1,"D153, D154, Q156, R158",,,,,,1.0,76.7,NMR,150 mM,5.5-12.5,310 K,https://www.ncbi.nlm.nih.gov/pubmed/12588864,,,,,,,,1NFN_A_nan_nan_157_LYS
+2BCA,LYS,A,72,11.33,0.08,"K71, Q75",,,,,,,69.4,NMR,,5.25-12.25,300 K,https://www.ncbi.nlm.nih.gov/pubmed/8683586,,,,,,,,2BCA_A_nan_nan_72_LYS
+1NFN,LYS,A,143,9.5,0.1,"H140, R142",,,,,,,86.7,NMR,150 mM,5.5-12.5,310 K,https://www.ncbi.nlm.nih.gov/pubmed/12588864,,,,,,,,1NFN_A_nan_nan_143_LYS
+1PPF,LYS,I,34,10.13,0.05,,,1.0,,,,1.0,45.5,NMR,0.015 M,5.0-13.0,298 K,https://pubs.acs.org/doi/pdf/10.1021/bi980187v,,,,,,,,1PPF_I_nan_nan_34_LYS
+1LSE,LYS,A,13,10.5,0.1,"R14, H15",,,,,,2.0,65.3,Potentiometric titration,0.1 M,1.8-11.1,298 K,https://www.ncbi.nlm.nih.gov/pubmed/6771251,,,,,,,,1LSE_A_nan_nan_13_LYS
+2ZTA,LYS,A,15,10.62,0.06,E11,,,,,,1.0,54.5,NMR,150 mM,1.0-13.0,298 K,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,,,,,,,,2ZTA_A_nan_nan_15_LYS
+1LSE,LYS,A,1,10.8,0.1,,2.0,,1.0,,,1.0,59.3,Potentiometric titration,0.1 M,1.8-11.1,298 K,https://www.ncbi.nlm.nih.gov/pubmed/6771251,,,,,,,,1LSE_A_nan_nan_1_LYS
+2ZTA,LYS,A,27,11.1,0.02,"R25, K28",,,,,,1.0,71.5,NMR,150 mM,1.0-13.0,298 K,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,,,,,,,,2ZTA_A_nan_nan_27_LYS
+2BCA,LYS,A,7,11.36,0.03,"E4, E5 ",,,,,1.0,1.0,75.4,NMR,,5.25-12.25,300 K,https://www.ncbi.nlm.nih.gov/pubmed/8683586,,,,,,,,2BCA_A_nan_nan_7_LYS
+1NFN,LYS,A,146,9.2,0.1,"R142, K143, R145, R147",,,,,,1.0,85.0,NMR,150 mM,5.5-12.5,310 K,https://www.ncbi.nlm.nih.gov/pubmed/12588864,,,,,,,,1NFN_A_nan_nan_146_LYS
+1NFN,LYS,A,95,10.1,0.1,"R92, E96",,,,,,,102.8,NMR,150 mM,5.5-12.5,310 K,https://www.ncbi.nlm.nih.gov/pubmed/12588864,,,,,,,,1NFN_A_nan_nan_95_LYS
+1LSE,LYS,A,116,10.4,0.1,R114,,,,,,1.0,79.6,Potentiometric titration,0.1 M,1.8-11.1,298 K,https://www.ncbi.nlm.nih.gov/pubmed/6771251,,,,,,,,1LSE_A_nan_nan_116_LYS
+1BHC,LYS,J,26,10.6,0.1,,,,,,,,129.8,NMR,200 mM,0-16,293 K,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,,,,,,,,1BHC_J_nan_nan_26_LYS
+3FT7,LYS,B,6,10.78,0.13,,,,,,,,,NMR,<60mM,0-12.5,298 K,https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201800628,,,,,,,,3FT7_B_nan_nan_6_LYS
+2BCA,LYS,A,16,11.06,0.03,E17,,,,,,1.0,95.3,NMR,,5.25-12.25,300 K,https://www.ncbi.nlm.nih.gov/pubmed/8683586,,,,,,,,2BCA_A_nan_nan_16_LYS
+2ZTA,LYS,A,8,11.26,0.05,"Q4, E6, D7",,,,,,1.0,48.7,NMR,150 mM,1.0-13.0,298 K,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,,,,,,,,2ZTA_A_nan_nan_8_LYS
+2BCA,LYS,A,55,12.12,0.13,"E51, D54, E65",,,,,1.0,2.0,116.0,NMR,,5.25-12.25,300 K,https://www.ncbi.nlm.nih.gov/pubmed/8683586,,,,,,,,2BCA_A_nan_nan_55_LYS
+1DSB,CYS,A,30,3.5,,,,,,,1.0,,1.8,Spectrophotometric titration,0.1 M,2.0-10.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00185a039,,,,,,,,1DSB_A_nan_nan_30_CYS
+1I0E,CYS,A,283,5.6,0.05,,,,,,,1.0,36.6,Spectrophotometric titration,30 mM,,303 K,https://pubs.acs.org/doi/abs/10.1021/bi011208f,,,,,,,,1I0E_A_nan_nan_283_CYS
+1I7K,CYS,A,102,10.9,,,,,,,,,,,,6.0-12.0,,https://pubs.acs.org/doi/abs/10.1021/bi0514459,S114S,A,0.2,,UV spectrophotometry,,303 K,1I7K_A_S114S_A_102_CYS
+1MEK,CYS,A,36,4.5,0.04,,,,,,,1.0,6.7,UV spectrophotometry,0.1 M,3.5-7.5,298 K,https://pubs.acs.org/doi/abs/10.1021/bi9617724,,,,,,,,1MEK_A_nan_nan_36_CYS
+1QLP,CYS,A,232,6.86,0.05,,,,,,,1.0,23.3,Reaction kinetics,100 mM,5.0-10.0,298 K,https://www.ncbi.nlm.nih.gov/pubmed/11991955,,,,,,,,1QLP_A_nan_nan_232_CYS
+1P5F,CYS,A,106,5.4,0.1,,,,,,,2.0,12.3,Spectrophotometric titration,0.2 M,,303 K,https://pubs.acs.org/doi/10.1021/bi800282d,,,,,,,,1P5F_A_nan_nan_106_CYS
+2MGE,CYS,A,125,8.43,,,,,,,,,,,,,,https://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00631,A125C,A,0.03,,,,,2MGE_A_A125C_A_125_CYS
+2HNP,CYS,A,215,5.57,0.12,,,,,,1.0,,6.8,Reaction kinetics,1 M,4.5-9.0,303 K,https://pubs.acs.org/doi/abs/10.1021/bi963094r,,,,,,,,2HNP_A_nan_nan_215_CYS
+1NTI,CYS,A,78,9.6,,,,,,,,,,,,7.0-10.0,,https://www.ncbi.nlm.nih.gov/pubmed/24673564,E78C,A,0.1,,NMR,50 mM,298 K,1NTI_A_E78C_A_78_CYS
+1YPT,CYS,A,403,4.67,0.15,,,,,,,,6.2,Reaction kinetics,0.15 M,4.0-6.5,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00087a012,,,,,,,,1YPT_A_nan_nan_403_CYS
+1AO6,CYS,A,34,6.9,,,1.0,,,,1.0,,0.0,Fluorescence Spectroscopy,,,,https://www.sciencedirect.com/science/article/pii/S0301462221000739?casa_token=hx5qv3O-wwEAAAAA:nsya3bqVtQ-WnxYVbMgWOV4vrB4bKfcOfMxzUIDezrkY-mZLcFTfAEdqIGWAf-7-cQWYdSGvuw,,,,,,,,1AO6_A_nan_nan_34_CYS
+3FT7,TYR,B,16,9.14,0.08,R41,,,,,,,89.25,NMR,<60mM,0-12.5,298 K,https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201800628,,,,,,,,3FT7_B_nan_nan_16_TYR
+1MBC,TYR,A,103,10.3,,"K102, E105",,,,,,2.0,26.1,NMR,0.1 M,,311 K,https://www.ncbi.nlm.nih.gov/pubmed/8455,,,,,,,,1MBC_A_nan_nan_103_TYR
+1ANS,TYR,A,7,9.7,0.2,,,,,,,,129.3,NMR,,1.8-12.0,300 K,https://www.ncbi.nlm.nih.gov/pubmed/8102051,,,,,,,,1ANS_A_nan_nan_7_TYR
+1BEG,TYR,A,85,10.35,0.15,,,,,,,,53.6,NMR,,1.5-11.2,313 K,https://www.ncbi.nlm.nih.gov/pubmed/9862128,,,,,,,,1BEG_A_nan_nan_85_TYR
+4PTI,TYR,A,35,11.1,0.2,,,,,,,1.0,8.5,1H NMR,0.1 M,5.0-13.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00688a008,,,,,,,,4PTI_A_nan_nan_35_TYR
+2LZT,TYR,A,53,12.1,,Q57,1.0,,,,,1.0,6.9,Potentiometric titration,0.1 M,1.8-11.1,298 K,https://www.ncbi.nlm.nih.gov/pubmed/6771251,,,,,,,,2LZT_A_nan_nan_53_TYR
+1HRC,TYR,A,67,11.0,,"E66, E69",,,,,,,11.5,NMR,0.1 M,3.0-11.0,303 K,https://pubs.acs.org/doi/abs/10.1021/bi00654a018,,,,,,,,1HRC_A_nan_nan_67_TYR
+2LZT,TYR,A,23,9.8,,,,,,,,1.0,25.5,Potentiometric titration,0.1 M,1.8-11.1,298 K,https://www.ncbi.nlm.nih.gov/pubmed/6771251,,,,,,,,2LZT_A_nan_nan_23_TYR
+1RGG,TYR,A,30,11.3,0.02-0.07,"Q32, D33",,,,,,,31.9,NMR,0.1 M,1.78-7.25,293 K,https://www.sciencedirect.com/science/article/pii/S0022283602012731?via%3Dihub,,,,,,,,1RGG_A_nan_nan_30_TYR
+3RN3,CTR,A,124,2.4,0.2,,,,,,,,78.5,NMR,30 mM,1.5-11.0,293 K,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,,,,,,,,3RN3_A_nan_nan_124_CTR
+1ERT,CTR,A,105,3.2,0.1,,,,,,,,74.0,1H NMR,75-100 mM,2.1-10.6,313 K,https://pubs.acs.org/doi/abs/10.1021/bi00128a019,,,,,,,,1ERT_A_nan_nan_105_CTR
+1BEG,CTR,A,98,3.51,0.01,,,,,,,,49.9,NMR,,1.5-11.2,313 K,https://www.ncbi.nlm.nih.gov/pubmed/9862128,,,,,,,,1BEG_A_nan_nan_98_CTR
+2LZT,CTR,A,129,2.75,0.12,,,,,,,,73.7,NMR,2.5 mM,1.0-7.0,293 K,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275825/,,,,,,,,2LZT_A_nan_nan_129_CTR
+1ANS,CTR,A,27,3.3,0.3,,,,,,,,80.2,NMR,,1.8-12.0,300 K,https://www.ncbi.nlm.nih.gov/pubmed/8102051,,,,,,,,1ANS_A_nan_nan_27_CTR
+2ZTA,CTR,A,31,4.03,0.06,,,,,,,,325.6,NMR,150 mM,1.0-13.0,298 K,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,,,,,,,,2ZTA_A_nan_nan_31_CTR
+1HNG,CTR,A,176,3.11,0.05,,,,,,,,189.6,NMR,100 mM,2.0-10.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi992209z,,,,,,,,1HNG_A_nan_nan_176_CTR
+1C8C,CTR,A,64,3.4,,,,,,,,,211.3,NMR,,1.5-12.0,300 K,https://www.ncbi.nlm.nih.gov/pubmed/12578354,,,,,,,,1C8C_A_nan_nan_64_CTR
+4ICB,CTR,A,75,3.2,0.05,,,,,,,,120.9,NMR,1 M,2.4-7.6,300 K,https://onlinelibrary.wiley.com/doi/full/10.1002/%28SICI%291097-0134%2819991001%2937%3A1%3C106%3A%3AAID-PROT10%3E3.0.CO%3B2-M,,,,,,,,4ICB_A_nan_nan_75_CTR
+1EPH,CTR,A,53,3.5,0.1,,,,,,,,133.7,1H NMR,,1.5-9.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,,,,,,,,1EPH_A_nan_nan_53_CTR
+1BPI,CTR,A,58,2.9,0.1,,,,,,,,250.3,NMR,200 mM,0-16,293 K,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,,,,,,,,1BPI_A_nan_nan_58_CTR
+1A2P,CTR,B,110,3.3,0.1,,,,,,,,41.8,2D 1H NMR,50mM-600mM,0.2-6.3,303 K,https://pubs.acs.org/doi/abs/10.1021/bi00029a018,,,,,,,,1A2P_B_nan_nan_110_CTR
+1C8C,NTR,A,1,7.0,,,,,,,,,128.8,NMR,,1.5-12.0,300 K,https://www.ncbi.nlm.nih.gov/pubmed/12578354,,,,,,,,1C8C_A_nan_nan_1_NTR
+2ZTA,NTR,A,1,7.88,0.02,,,,,,,,82.2,NMR,150 mM,1.0-13.0,298 K,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,,,,,,,,2ZTA_A_nan_nan_1_NTR
+2TRX,NTR,A,1,7.4,,,,,,,,,121.9,NMR,1 M,,298-308 K,https://pubs.acs.org/doi/abs/10.1021/bi961801a,,,,,,,,2TRX_A_nan_nan_1_NTR
+1BPI,NTR,A,1,8.1,0.1,,,,,,,,79.4,NMR,200 mM,0-16,293 K,https://www.sciencedirect.com/science/article/pii/S0022283684713015?via%3Dihub,,,,,,,,1BPI_A_nan_nan_1_NTR
+1EPH,NTR,A,1,7.7,0.1,,,,,,,,133.9,1H NMR,,1.5-9.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00234a009,,,,,,,,1EPH_A_nan_nan_1_NTR
+3FT7,NTR,B,2,7.76,0.04,,,,,,,,,NMR,<60mM,0-12.5,298 K,https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201800628,,,,,,,,3FT7_B_nan_nan_2_NTR
+1BEG,NTR,A,1,7.43,,,,,,,,,196.5,NMR,,1.5-11.2,313 K,https://www.ncbi.nlm.nih.gov/pubmed/9862128,,,,,,,,1BEG_A_nan_nan_1_NTR
+9RNT,NTR,A,1,8.1,0.1,,,,,,,,213.7,13C NMR,1 M,2.0-9.0,308 K,https://link.springer.com/article/10.1007/s002490100138,,,,,,,,9RNT_A_nan_nan_1_NTR
+3EBX,HIS,A,6,2.8,,Q7,,,,,1.0,,6.9,NMR,,,296-326 K,https://www.ncbi.nlm.nih.gov/pubmed/710401,,,,,,,,3EBX_A_nan_nan_6_HIS
+1GYM,HIS,A,92,5.4,,E93,,,,,1.0,1.0,58.2,NMR,,4.0-9.0,298 K,https://www.ncbi.nlm.nih.gov/pubmed/9300493,,,,,,,,1GYM_A_nan_nan_92_HIS
+2CPL,HIS,A,70,5.84,0.05,"D66, R69",,,,,,,66.6,NMR,0.1 M,4.6-10.7,293 K,https://www.sciencedirect.com/science/article/pii/0167483894901325?via%3Dihub,,,,,,,,2CPL_A_nan_nan_70_HIS
+1KF3,HIS,A,119,6.5,0.1,,,,,,,1.0,52.1,NMR,1 M,1.2-7.9,303 K,https://www.ncbi.nlm.nih.gov/pubmed/8615690,,,,,,,,1KF3_A_nan_nan_119_HIS
+1DUK,HIS,A,81,6.58,0.02,"K78, K79, H82",,,,,1.0,1.0,78.7,NMR,0.1 M,5.5-10,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00143a018,,,,,,,,1DUK_A_nan_nan_81_HIS
+1HHO,HIS,B,146,7.0,0.1,"H143, K144",,,,,,,107.7,NMR,,5.0-9.0,309.5 K,https://pubs.acs.org/doi/abs/10.1021/bi00560a010,,,,,,,,1HHO_B_nan_nan_146_HIS
+1B2V,HIS,A,179,7.2,,,,,,,,,,,,4.9-9.0,,https://www.ncbi.nlm.nih.gov/pubmed/11910020,Y75A,A,,,NMR,0.1 M,303 K,1B2V_A_Y75A_A_179_HIS
+2TGA,HIS,A,57,7.33,0.02,D102,3.0,,,,1.0,,43.8,NMR,0.5 M,3.0-9.0,303 K,https://pubs.acs.org/doi/abs/10.1021/bi00615a008,,,,,,,,2TGA_A_nan_nan_57_HIS
+1LNI,HIS,A,53,8.27,0.02-0.07,E54,,,,,,1.0,35.4,NMR,0.1 M,1.68-8.83,293 K,https://www.ncbi.nlm.nih.gov/pubmed/12527309,,,,,,,,1LNI_A_nan_nan_53_HIS
+2TGA,HIS,A,40,4.57,0.02,,4.0,,,,,,30.7,NMR,0.5 M,3.0-9.0,303 K,https://pubs.acs.org/doi/abs/10.1021/bi00615a008,,,,,,,,2TGA_A_nan_nan_40_HIS
+2PYO,HIS,D,46,5.64,0.03,"K43, Q44",,1.0,,,,1.0,10.69,NMR,200 mM,4.4-9.1,303 K,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8626509/pdf/41598_2021_Article_2436.pdf,,,,,,,,2PYO_D_nan_nan_46_HIS
+1DE3,HIS,A,137,5.9,,,,,,,,,,,,3.0-8.5,,https://pubs.acs.org/doi/abs/10.1021/bi0349773,E96Q,A,0.1,,NMR,0.2 M,308 K,1DE3_A_E96Q_A_137_HIS
+2ZTA,HIS,A,18,6.24,0.06,K15,,,,,,,72.7,NMR,150 mM,1.0-13.0,298 K,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,,,,,,,,2ZTA_A_nan_nan_18_HIS
+1DUK,HIS,A,119,6.39,0.02,"H116, R118",2.0,,,,,2.0,16.5,NMR,0.1 M,5.5-10,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00143a018,,,,,,,,1DUK_A_nan_nan_119_HIS
+1FKS,HIS,A,87,6.51,0.01,,1.0,,,,,,87.7,NMR,0.1 M,4.6-10.7,298 K,https://www.sciencedirect.com/science/article/pii/0167483894901325?via%3Dihub,,,,,,,,1FKS_A_nan_nan_87_HIS
+1THE,HIS,A,110,6.9,,"E109, H111",1.0,,,,,,7.8,Reaction kinetics,250 mM,3.2-8.4,297 K,https://www.ncbi.nlm.nih.gov/pubmed/1537854,,,,,,,,1THE_A_nan_nan_110_HIS
+6GST,HIS,A,84,7.08,0.01,"R81, K82, H83",,,,,,,102.9,NMR,,4.0-9.0,298 K,https://www.ncbi.nlm.nih.gov/pubmed/1918058,,,,,,,,6GST_A_nan_nan_84_HIS
+1YPI,HIS,A,103,7.29,,"R98, R99, E104",,,,,,,88.4,NMR,1 M,4.5-10.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00067a024,,,,,,,,1YPI_A_nan_nan_103_HIS
+1PPF,HIS,I,52,7.5,,,,1.0,,,,1.0,44.9,NMR,0.015 M,5.0-13.0,298 K,https://pubs.acs.org/doi/pdf/10.1021/bi980187v,,,,,,,,1PPF_I_nan_nan_52_HIS
+1QT8,HIS,A,31,8.9,,,,,,,,,,,,,,https://onlinelibrary.wiley.com/doi/pdf/10.1002/pro.3562,H26H,A,0.1,33.27,C-NMR,130mM,298K,1QT8_A_H26H_A_31_HIS
+3FT7,TYR,B,5,9.66,0.11,,,,,,,,,NMR,<60mM,0-12.5,298 K,https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201800628,,,,,,,,3FT7_B_nan_nan_5_TYR
+2LZT,TYR,A,20,10.3,,R21,2.0,,,,,,28.7,Potentiometric titration,0.1 M,1.8-11.1,298 K,https://www.ncbi.nlm.nih.gov/pubmed/6771251,,,,,,,,2LZT_A_nan_nan_20_TYR
+4PTI,TYR,A,21,11.1,0.2,R20,,,,,,2.0,38.5,1H NMR,0.1 M,5.0-13.0,298 K,https://pubs.acs.org/doi/abs/10.1021/bi00688a008,,,,,,,,4PTI_A_nan_nan_21_TYR
+2ZTA,TYR,A,17,9.82,0.08,"H18, E20",,,,,,1.0,69.6,NMR,150 mM,1.0-13.0,298 K,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2105789/,,,,,,,,2ZTA_A_nan_nan_17_TYR
+1MBC,TYR,A,151,10.5,0.2,"K147, Q152",,,,,,1.0,41.7,NMR,0.1 M,,311 K,https://www.ncbi.nlm.nih.gov/pubmed/8455,,,,,,,,1MBC_A_nan_nan_151_TYR

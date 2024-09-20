@@ -1,0 +1,7 @@
+structure       = 9rnt_nan_nan.pdb      # Input structure file name
+ncpus           = -1            # Number of processes (-1 for maximum allowed)
+epsin           = 15            # Dielectric constant of the protein
+ionicstr        = 0.1           # Ionic strength of the medium (M)
+pbc_dimensions  = 0             # PB periodic boundary conditions (0 for solvated proteins and 2 for lipidic systems)
+sites           = all           # Titrate all available sites
+output          = 9rnt_nan_nan.pka      # pKa values output file

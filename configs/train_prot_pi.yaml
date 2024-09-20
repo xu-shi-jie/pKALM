@@ -1,0 +1,23 @@
+task: PLM-PI-PROT
+seed: 0
+
+pi_train_csv: data/IPC2_protein_75.csv
+pi_test_csv: data/IPC2_protein_25.csv
+kfold: 1
+
+ckpt_path:
+
+batch_size: 32
+lr_sch: True
+epochs: 20
+ckpt_dir: checkpoints
+optimizer: adamw
+loss: mse
+lr: 0.001
+wd: 0.001
+wamrup_ratio: 0
+amp: True
+
+rnn_type: bilstm
+piprot_dim: 128
+piprot_layers: 4
