@@ -5,7 +5,9 @@ This is the official implementation of the paper ["Accurate and Rapid Prediction
 ## Freely available server
 Our pKALM server is available: [Access pKALM](https://onodalab.ees.hokudai.ac.jp/pkalm)
 
-**Update 2025/9/12. Our server is under maintenance, please be patient to wait until it recovers.**
+**Update 2026/2/24. Please download the checkpoints and configuration files at https://huggingface.co/xushijie/pKALM**.
+
+~~Update 2025/9/12. Our server is under maintenance, please be patient to wait until it recovers.~~
 
 ## Installation
 
